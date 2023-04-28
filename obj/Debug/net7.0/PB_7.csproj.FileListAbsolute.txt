@@ -1,0 +1,15 @@
+C:\Work\PB_7\bin\Debug\net7.0\PB_7.exe
+C:\Work\PB_7\bin\Debug\net7.0\PB_7.deps.json
+C:\Work\PB_7\bin\Debug\net7.0\PB_7.runtimeconfig.json
+C:\Work\PB_7\bin\Debug\net7.0\PB_7.dll
+C:\Work\PB_7\bin\Debug\net7.0\PB_7.pdb
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.csproj.AssemblyReference.cache
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.AssemblyInfoInputs.cache
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.AssemblyInfo.cs
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.csproj.CoreCompileInputs.cache
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.dll
+C:\Work\PB_7\obj\Debug\net7.0\refint\PB_7.dll
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.pdb
+C:\Work\PB_7\obj\Debug\net7.0\PB_7.genruntimeconfig.cache
+C:\Work\PB_7\obj\Debug\net7.0\ref\PB_7.dll
